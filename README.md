@@ -15,7 +15,7 @@ This project focuses on recreating the visual design of Spotify with a responsiv
 - 🟢 Styled with Spotify theme colors  
 - ⚡ Smooth visual experience  
 
----
+
 
 ## 🛠️ Built With
 - HTML5  
@@ -23,19 +23,6 @@ This project focuses on recreating the visual design of Spotify with a responsiv
 - Git & GitHub  
 - GitHub Pages (Deployment)
 
----
-
-## 📸 Preview
-_Add a screenshot here later for better presentation_
-
----
-
-## 🚀 How to Run Locally
-1. Clone the repository  
-2. Open the folder  
-3. Run `index.html` in your browser  
-
----
 
 ## 📚 What I Learned
 - Structuring a real-world UI layout  
