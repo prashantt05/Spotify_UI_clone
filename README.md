@@ -1,65 +1,57 @@
-# Spotify_UI_clone
-🎵 Spotify UI Clone
+# 🎵 Spotify UI Clone
 
-A clean and responsive Spotify-inspired music player UI built using HTML, CSS, and JavaScript.
-This project focuses on recreating the modern look and feel of Spotify with smooth design and interactive elements.
+A clean and modern **Spotify-inspired user interface** built using **HTML and CSS**.  
+This project focuses on recreating the visual design of Spotify with a responsive layout and stylish components.
 
-🌐 Live Demo:
+🌐 **Live Demo:**  
 👉 https://prashantt05.github.io/Spotify_UI_clone/
 
-✨ Features
+---
 
-🎧 Spotify-inspired layout
+## ✨ Features
+- 🎧 Spotify-inspired design  
+- 🎨 Clean and modern layout  
+- 📱 Responsive structure  
+- 🟢 Styled with Spotify theme colors  
+- ⚡ Smooth visual experience  
 
-🎨 Modern and clean design
+---
 
-▶️ Play/Pause interface
+## 🛠️ Built With
+- HTML5  
+- CSS3  
+- Git & GitHub  
+- GitHub Pages (Deployment)
 
-📱 Responsive structure
+---
 
-⚡ Smooth user experience
+## 📸 Preview
+_Add a screenshot here later for better presentation_
 
-🛠️ Built With
+---
 
-HTML5
+## 🚀 How to Run Locally
+1. Clone the repository  
+2. Open the folder  
+3. Run `index.html` in your browser  
 
-CSS3
+---
 
-JavaScript
+## 📚 What I Learned
+- Structuring a real-world UI layout  
+- Improving CSS styling and positioning  
+- Creating responsive web designs  
+- Using Git & GitHub for version control  
+- Deploying a live project using GitHub Pages  
 
-Git & GitHub
+---
 
-GitHub Pages (Deployment)
-
-📸 Preview
-
-Add a screenshot here later for better presentation
-
-🚀 How to Run Locally
-
-Clone the repository
-
-Open the folder
-
-Run index.html in your browser
-
-📚 What I Learned
-
-Structuring real-world UI layouts
-
-Improving CSS styling skills
-
-JavaScript DOM interactions
-
-Git & GitHub workflow
-
-Deploying projects using GitHub Pages
-
-👨‍💻 Author
-
-Prashant Rajput
+## 👨‍💻 Author
+**Prashant Rajput**  
 GitHub: https://github.com/prashantt05
+
+---
 
 ⭐ If you like this project, consider giving it a star!
 
-🎵 Design. Code. Create.
+🎵 *Design. Practice. Improve.*
